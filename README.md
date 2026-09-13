@@ -12,3 +12,6 @@ Returning to the main point, I want to discuss this question through the process
 I think AI-generated work is controversial because it reduces the number of decisions to a tiny fraction. If painting an image originally required tens of thousands of decisions, but using AI produces that image after only a few dozen, can it really reflect the artistry and subjectivity of the person using AI? This is especially relevant because AI models are often trained on hundreds of thousands of artworks, each created through tens of thousands of decisions by its artist. Those few dozen decisions do not show what the AI user wanted to express. Instead, they show an accumulation of decisions made by the artists whose works became training material.
 
 Therefore, I believe the number of decisions a person makes in creating a work determines whether that work belongs to them. I do not think “understanding how the system works” directly changes who deserves credit. Rather, it helps people discover more places in the creative process where they can make decisions. As the number of decisions increases, the individuality of the work becomes more apparent, and disputes over authorship become less intense.
+## References
+
+SD5913. (2026). *Assignment 1—Why are we here?* [Course assignment brief]. GitHub. https://github.com/sd5913/pfad/blob/2026/assignments/01-why-are-we-here.md
