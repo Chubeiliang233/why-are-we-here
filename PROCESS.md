@@ -1,5 +1,5 @@
-我使用了chatgpt用于翻译和技术指导。
+I used ChatGPT for translation and technical guidance.
 
-因为我的母语是中文，因此使用母语写作对我来说更加顺畅。我独立写完之后，使用chatgpt，对它说“把我的文本翻译成英文，注意不要改变我原本的意思”。ai翻译之后我有审读过英文版，以我的英文水平，我觉得这个翻译没有曲解我的原本意思，因此我保留了译文并在read me里把中文版本更新成了英文。
+Because Chinese is my native language, writing in Chinese feels more natural to me. After writing the essay independently, I asked ChatGPT, “Translate my text into English, but please do not change my original meaning.” I reviewed the English translation afterward. To the best of my English ability, I felt that it did not misrepresent what I meant. I therefore kept the translation and replaced the Chinese version in my README with the English version.
 
-技术指导包括两个部分。添加process.md，和在md文件里如何让预览文本分段。ai指导了我怎么做，我在遵循ai指导之后成功达成了我想要的效果。
+The technical guidance covered two things: how to add PROCESS.md and how to make paragraphs appear separately in the preview of a Markdown file. ChatGPT explained the steps, and following its guidance helped me achieve the result I wanted.
